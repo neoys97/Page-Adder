@@ -3,7 +3,7 @@
 ### Features
 - Add 1 to every bytes written to the component
 
-###Component Block Diagram
+### Component Block Diagram
 <img src="screenshots/component.jpg">
 
 ### Usage
