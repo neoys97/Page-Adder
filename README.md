@@ -12,13 +12,13 @@
 #### Instruction bits
 
 - Bit[1:0] : Mode bits
- - 01 : write 
- - 10 : read
+  - 01 : write 
+  - 10 : read
 - Bit[3:2]: Byte bits 
- - 00 : one byte 
- - 01 : two bytes 
- - 10 : three bytes
- - 11 : four bytes
+  - 00 : one byte 
+  - 01 : two bytes 
+  - 10 : three bytes
+  - 11 : four bytes
 - Bit[15:4] : Index bits
 - Bit[23:16] : First data byte
 - Bit[31:24] : Second data byte
