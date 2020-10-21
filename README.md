@@ -8,7 +8,9 @@
 
 ### Usage
 <img src="screenshots/instruction.jpg">
+
 #### Instruction bits
+
 - Bit[1:0] : Mode bits
  - 01 : write 
  - 10 : read
